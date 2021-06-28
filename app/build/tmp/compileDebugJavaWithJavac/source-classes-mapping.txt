@@ -1,0 +1,13 @@
+com/test/userlogintest/DashBoard.java
+ com.test.userlogintest.DashBoard
+com/test/userlogintest/BuildConfig.java
+ com.test.userlogintest.BuildConfig
+com/test/userlogintest/SignUpActivity.java
+ com.test.userlogintest.SignUpActivity
+ com.test.userlogintest.SignUpActivity$1
+ com.test.userlogintest.SignUpActivity$2
+ com.test.userlogintest.SignUpActivity$UserDetails
+com/test/userlogintest/LoginPageActivity.java
+ com.test.userlogintest.LoginPageActivity
+ com.test.userlogintest.LoginPageActivity$1
+ com.test.userlogintest.LoginPageActivity$2
