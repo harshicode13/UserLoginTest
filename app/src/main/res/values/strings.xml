@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UserLoginTest</string>
+    <string name="Passcode">Password</string>
+    <string name="Userid">Username</string>
+    <string name="checkbox_name">Keep me logged in</string>
+    <string name="Welcome_text">Hello User!</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">Signup!</string>
+    <string name="male">MALE</string>
+    <string name="female">FEMALE</string>
+    <string name="first_name">FIRST NAME</string>
+    <string name="second_name">SECOND NAME</string>
+    <string name="user_name">USER NAME</string>
+    <string name="submit">SUBMIT</string>
+    <string name="cancel">CANCEL</string>
+    <string name="create_password">CREATE PASSWORD</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="welcome">Welcome!</string>
+</resources>

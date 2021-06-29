@@ -2390,6 +2390,7 @@ int string signup 0x7f0e0070
 int string status_bar_notification_info_overflow 0x7f0e0071
 int string submit 0x7f0e0072
 int string user_name 0x7f0e0073
+int string welcome 0x7f0e0074
 int style AlertDialog_AppCompat 0x7f0f0000
 int style AlertDialog_AppCompat_Light 0x7f0f0001
 int style AndroidThemeColorAccentYellow 0x7f0f0002
